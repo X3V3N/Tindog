@@ -161,9 +161,32 @@ h2 {
   padding-bottom: 150px;
 }
 
+.pd-dn {
+  padding: 20px;
+}
+
 @media (max-width: 1030px) {
   #title {
     text-align: center;
+  }
+  #D1 {
+    margin-bottom: 10px;
+    margin-right: 0px;
+  }
+  #pricing {
+    padding: 60px;
+  }
+  .pd-dn {
+    padding: 0px;
+  }
+  .BT-D1 {
+    margin-bottom: 10px;
+  }
+  .BT-D2 {
+    margin-bottom: 10px;
+  }
+  .D2 {
+    margin-bottom: 10px;
   }
   .dog-img {
     position: static;
